@@ -1,0 +1,37 @@
+# Kaggle credentials
+kaggle.json
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+*.pth
+*.pt
+
+# Dataset
+dataset/
+datasets/
